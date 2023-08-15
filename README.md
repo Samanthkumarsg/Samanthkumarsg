@@ -5,15 +5,43 @@
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/samanth-kumar-sg) 
 
-# 💻 Tech Stack:
-![Styling](https://skillicons.dev/icons?i=html,css,tailwind,bootstrap,sass,materialui,styledcomponents)
-![Frontend Libraries And Frameworks](https://skillicons.dev/icons?i=js,ts,react,redux,nextjs,svelte,vue,nodejs,expressjs,jquery) <br>
-![Database](https://skillicons.dev/icons?i=mongodb,mysql,postgres)<br>
-![Testing Tools](https://skillicons.dev/icons?i=jest,postman)<br>
-![Version Control](https://skillicons.dev/icons?i=git,github)<br>
-![Hosting](https://skillicons.dev/icons?i=heroku,netlify,vercel,nginx)<br>
-![Cloud](https://skillicons.dev/icons?i=aws,docker,gcp)<br>
-![Other Tools](https://skillicons.dev/icons?i=figma,xd)<br>
+<h1> Tech stacks i use</h1> 
+
+<h4>Frontend Libraries And Frameworks</h4>
+
+![Styling](https://skillicons.dev/icons?i=html,css,tailwind,bootstrap,sass,materialui,styledcomponents)<br>
+![Frontend Libraries And Frameworks](https://skillicons.dev/icons?i=js,ts,react,redux,nextjs,svelte,vue,nodejs,expressjs,jquery) 
+<br>
+
+<h4>Database</h4>
+
+![Database](https://skillicons.dev/icons?i=mongodb,mysql,postgres)
+<br>
+
+<h4>Test Driven Development tools </h4>
+
+![Testing Tools](https://skillicons.dev/icons?i=jest,postman)
+<br>
+
+<h4>Version Control</h4>
+
+![Version Control](https://skillicons.dev/icons?i=git,github)
+<br>
+
+<h4>Hosting</h4>
+
+![Hosting](https://skillicons.dev/icons?i=heroku,netlify,vercel,nginx,aws)
+<br>
+
+<h4>Cloud services</h4>
+
+![Cloud](https://skillicons.dev/icons?i=aws,docker,gcp)
+<br>
+
+<h4>Other Tools</h4>
+
+![Other Tools](https://skillicons.dev/icons?i=figma,xd)
+<br>
 
 
 
