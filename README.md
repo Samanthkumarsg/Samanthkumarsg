@@ -1,11 +1,19 @@
-# 💫 About Me:
+
+
+<h1> Samanth Kumar</h1>
+<h3>Frontend Developer</h2>
+
+
+<h2>About Me </h2> 
 🔭 I’m currently working on POC Projects to solve real world problems<br>👯 I’m looking to collaborate on UI/UX , frontend development<br>🤝 I’m looking for help with growth <br>🌱 I’m currently learning blockchain, typescript and three.js<br>💬 Ask me about the latest tech stuffs<br>⚡ Fun fact is to tickle my fingers while playing guitar and piano.
 
 
-## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/samanth-kumar-sg) 
+<h2>Social Links </h2> 
 
-<h1> Tech stacks i use</h1> 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/samanth-kumar-sg) 
+<br>
+
+<h2> Tech stacks</h2> 
 
 <h4>Frontend Libraries And Frameworks</h4>
 
@@ -20,7 +28,12 @@
 
 <h4>Test Driven Development tools </h4>
 
-![Testing Tools](https://skillicons.dev/icons?i=jest,postman)
+![Testing Tools](https://skillicons.dev/icons?i=jest)
+<br>
+
+<h4>Backend as a service </h4>
+
+![Testing Tools](https://skillicons.dev/icons?i=appwrite,prisma)
 <br>
 
 <h4>Version Control</h4>
@@ -40,7 +53,7 @@
 
 <h4>Other Tools</h4>
 
-![Other Tools](https://skillicons.dev/icons?i=figma,xd)
+![Other Tools](https://skillicons.dev/icons?i=postman,figma,xd)
 <br>
 
 
