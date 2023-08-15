@@ -1,7 +1,7 @@
 
 
 <h1> Samanth Kumar</h1>
-<h3>Frontend Developer</h2>
+<h3>Software Developer</h2>
 
 
 <h2>About Me </h2> 
