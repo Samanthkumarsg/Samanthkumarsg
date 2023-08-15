@@ -7,19 +7,19 @@
 
 # 💻 Tech Stack:
 ![Styling](https://skillicons.dev/icons?i=html,css,tailwind,bootstrap,sass,materialui,styledcomponents)
-![Frontend Libraries And Frameworks](https://skillicons.dev/icons?i=js,ts,react,redux,nextjs,svelte,vue,nodejs,expressjs,jquery)
-![Database](https://skillicons.dev/icons?i=mongodb,mysql,postgres)
-![Testing Tools](https://skillicons.dev/icons?i=jest,postman)
-![Version Control](https://skillicons.dev/icons?i=git,github)
-![Hosting](https://skillicons.dev/icons?i=heroku,netlify,vercel,nginx)
-![Cloud](https://skillicons.dev/icons?i=aws,docker,gcp)
-![Other Tools](https://skillicons.dev/icons?i=figma,xd)
+![Frontend Libraries And Frameworks](https://skillicons.dev/icons?i=js,ts,react,redux,nextjs,svelte,vue,nodejs,expressjs,jquery) <br>
+![Database](https://skillicons.dev/icons?i=mongodb,mysql,postgres)<br>
+![Testing Tools](https://skillicons.dev/icons?i=jest,postman)<br>
+![Version Control](https://skillicons.dev/icons?i=git,github)<br>
+![Hosting](https://skillicons.dev/icons?i=heroku,netlify,vercel,nginx)<br>
+![Cloud](https://skillicons.dev/icons?i=aws,docker,gcp)<br>
+![Other Tools](https://skillicons.dev/icons?i=figma,xd)<br>
 
 
 
 
 
-
+<hr/>
 
 
 # 📊 GitHub Stats:
