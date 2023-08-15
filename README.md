@@ -1,7 +1,7 @@
 
 
 <h1> Samanth Kumar</h1>
-<h3>Software Developer</h2>
+<h3>Im a Software Developer</h3>
 
 
 <h2>About Me </h2> 
