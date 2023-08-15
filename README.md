@@ -55,17 +55,13 @@
 
 ![Other Tools](https://skillicons.dev/icons?i=postman,figma,xd)
 <br>
+<br>
 
 
+<h3> GitHub Stats: </h3>
 
-
-
-<hr/>
-
-
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=Samanthkumarsg&theme=radical&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=Samanthkumarsg&theme=radical&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api?username=Samanthkumarsg&theme=radical&hide_border=false&include_all_commits=true&count_private=true)<br>
+![](https://github-readme-streak-stats.herokuapp.com/?user=Samanthkumarsg&theme=radical&hide_border=false)<br>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Samanthkumarsg&theme=radical&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
 
