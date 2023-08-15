@@ -15,7 +15,7 @@
 
 <h2> Tech stacks</h2> 
 
-<h4>Frontend Libraries And Frameworks</h4>
+<h4>Libraries And Frameworks</h4>
 
 ![Styling](https://skillicons.dev/icons?i=html,css,tailwind,bootstrap,sass,materialui,styledcomponents)<br>
 ![Frontend Libraries And Frameworks](https://skillicons.dev/icons?i=js,ts,react,redux,nextjs,svelte,vue,nodejs,expressjs,jquery) 
