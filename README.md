@@ -5,7 +5,7 @@
 
 
 <h2>About Me </h2> 
-🔭 I’m currently working on POC Projects to solve real world problems<br>👯 I’m looking to collaborate on UI/UX , frontend development<br>🤝 I’m looking for help with growth <br>🌱 I’m currently learning blockchain, typescript and three.js<br>💬 Ask me about the latest tech stuffs<br>⚡ Fun fact is to tickle my fingers while playing guitar and piano.
+🔭 I’m currently working on POC Projects to solve real world problems<br>👯 I’m looking to collaborate on UI/UX , frontend development<br>🤝 I’m looking for help with growth <br>🌱 I’m currently learning blockchain, typescript<br>💬 Ask me about the latest tech stuffs<br>⚡ Fun fact is to tickle my fingers while playing guitar and piano.
 
 
 <h2>Social Links </h2> 
